@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//myproject/items.py=utf-8
+encoding//myproject/middlewares.py=utf-8
+encoding//myproject/pipelines.py=utf-8
+encoding//myproject/settings.py=utf-8
+encoding//myproject/spiders/mydomain.py=utf-8
+encoding//myproject/spiders/run.py=utf-8
